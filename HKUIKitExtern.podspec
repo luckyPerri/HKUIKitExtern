@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HKUIKitExtern"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "HKUIKitExtern"
    s.description  = "GHKUIKitExtern 扩展功能" 
 
