@@ -6,9 +6,9 @@
 //  Copyright © 2017年 didi. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
-@interface UILabel (DLSFactory)
+//#import <UIKit/UIKit.h>
+//
+//@interface UILabel (DLSFactory)
 
 
 //+(UILabel*)labelWithOriginX:(CGFloat)originX
@@ -47,4 +47,4 @@
 //-(UILabel* (^)(UIFont* ))hk_font;
 //-(UILabel* (^)(NSTextAlignment ))hk_textAlignment;
 
-@end
+//@end

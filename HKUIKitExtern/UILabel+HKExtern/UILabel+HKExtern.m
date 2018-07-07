@@ -5,10 +5,10 @@
 //  Created by zhaoke.hzk on 2017/5/12.
 //  Copyright © 2017年 didi. All rights reserved.
 //
-
-#import "UILabel+DLSFactory.h"
-
-@implementation UILabel (DLSFactory)
+//
+//#import "UILabel+DLSFactory.h"
+//
+//@implementation UILabel (DLSFactory)
 
 //+(UILabel*)labelWithOriginX:(CGFloat)originX
 //                    OriginY:(CGFloat)originY
@@ -110,4 +110,4 @@
 //    };
 //}
 
-@end
+//@end
